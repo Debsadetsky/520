@@ -22,11 +22,8 @@ for n in range(3):
     cont-=1
 print(soma)
 
-'''
-ou
-'''
-
-a = 0
-for c,i in enumerate(m):
-    a += i[c] + i[-(c+1)]
-print(a)
+# ou
+#a = 0
+#for c,i in enumerate(m):
+#    a += i[c] + i[-(c+1)]
+#print(a)
